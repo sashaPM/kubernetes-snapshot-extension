@@ -49,7 +49,7 @@ entities:
 - type: "endpoint"
 
 # Absolute path to the dashboard template.
-dashboardTemplatePath: "templates/k8s_dashboard_template.json.json"
+dashboardTemplatePath: "templates/k8s_dashboard_template.json"
 
 # Absolute path to the node widget template.
 nodeTemplatePath: "templates/k8s_node_template.json"
